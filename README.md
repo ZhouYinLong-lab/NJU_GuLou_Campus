@@ -22,6 +22,8 @@
 
 首个版本：[`v3.0.0`](https://github.com/ZhouYinLong-lab/NJU_GuLou_Campus/releases/tag/v3.0.0)
 
+完整包是 3 卷 7-Zip 分卷：请把 `.001`、`.002`、`.003` 全部下载到同一目录，用 7-Zip 打开 `.001` 解压。
+
 完整包包含：
 
 - `NJU_Gulou_Campus_V3.blend`：主编辑工程
