@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "NJU Gulou Campus"
+message: "If you use this project, please cite the repository and release."
+type: software
+authors:
+  - name: "ZhouYinLong-lab"
+    website: "https://github.com/ZhouYinLong-lab"
+repository-code: "https://github.com/ZhouYinLong-lab/NJU_GuLou_Campus"
+url: "https://github.com/ZhouYinLong-lab/NJU_GuLou_Campus"
+license: "MIT AND CC-BY-4.0"
+version: "3.0.0"
+date-released: "2026-10-28"
+abstract: "An open-source Blender-based presentation model of Nanjing University Gulou Campus."
+

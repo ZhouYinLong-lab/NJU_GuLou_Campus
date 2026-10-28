@@ -1,0 +1,22 @@
+# Blender and generated project files
+*.blend1
+*.blend2
+*.tmp
+__pycache__/
+
+# Local generated outputs and large release packages
+/work/
+/outputs/
+*.zip
+*.7z
+*.mp4
+*.glb
+*.blend
+
+# JavaScript dependencies and local tooling
+node_modules/
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+Thumbs.db

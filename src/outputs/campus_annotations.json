@@ -1,0 +1,1214 @@
+[
+  {
+    "name": "北园",
+    "position": [
+      78.65,
+      18.85,
+      1
+    ],
+    "category": "分区",
+    "description": "鼓楼校区北园：历史建筑、教学科研与运动场。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 0
+  },
+  {
+    "name": "南园",
+    "position": [
+      200.85,
+      -256.75,
+      1
+    ],
+    "category": "分区",
+    "description": "汉口路以南的生活片区。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 0
+  },
+  {
+    "name": "北大楼",
+    "position": [
+      163.15,
+      229.45000000000002,
+      33
+    ],
+    "category": "历史建筑",
+    "description": "依据南立面与东立面图重建五层塔楼、十字形塔顶、红星、窗格及假阳台。",
+    "source": "https://dawww.nju.edu.cn/info/1201/10711.htm",
+    "priority": 1
+  },
+  {
+    "name": "东大楼",
+    "position": [
+      216.45000000000002,
+      189.15,
+      20
+    ],
+    "category": "历史建筑",
+    "description": "科学馆；独立建模中部抬高屋面、后侧突出体量与石门罩。",
+    "source": "https://dawww.nju.edu.cn/info/1201/10671.htm",
+    "priority": 1
+  },
+  {
+    "name": "西大楼",
+    "position": [
+      125.45,
+      178.75,
+      20
+    ],
+    "category": "历史建筑",
+    "description": "原裴义理堂；依据图纸与照片补建屋面、窗带和入口。",
+    "source": "https://dawww.nju.edu.cn/info/1201/10651.htm",
+    "priority": 1
+  },
+  {
+    "name": "大礼堂",
+    "position": [
+      128.70000000000002,
+      134.55,
+      20
+    ],
+    "category": "历史建筑",
+    "description": "高侧窗、主屋面与低侧廊层次，东向入口及多层檐口。",
+    "source": "https://dawww.nju.edu.cn/info/1201/10691.htm",
+    "priority": 1
+  },
+  {
+    "name": "校史博物馆",
+    "position": [
+      196.3,
+      0.0,
+      21
+    ],
+    "category": "历史建筑",
+    "description": "原金陵大学图书馆；重建中部门厅、挑檐及后侧书库体量。",
+    "source": "https://dawww.nju.edu.cn/info/1201/10631.htm",
+    "priority": 1
+  },
+  {
+    "name": "西南楼",
+    "position": [
+      -21.45,
+      56.550000000000004,
+      19
+    ],
+    "category": "历史建筑",
+    "description": "1954年建筑；依据H形平面及立面照片建模，补三层窗带。",
+    "source": "https://dawww.nju.edu.cn/info/1201/10581.htm",
+    "priority": 1
+  },
+  {
+    "name": "苏浙运动场",
+    "position": [
+      -6.5,
+      216.45000000000002,
+      1
+    ],
+    "category": "体育",
+    "description": "跑道、足球场、球门、看台、围栏与灯杆；依据校园地图。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 1
+  },
+  {
+    "name": "汉口路校门",
+    "position": [
+      130.65,
+      -73.45,
+      10
+    ],
+    "category": "校门",
+    "description": "根据官方正门照片建模。",
+    "source": "https://nh.nju.edu.cn/xysh/xyfg/glxq/1.htm",
+    "priority": 1
+  },
+  {
+    "name": "汉口路",
+    "position": [
+      37.050000000000004,
+      -92.95,
+      1
+    ],
+    "category": "道路",
+    "description": "连接与分隔南北园的城市道路。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 1
+  },
+  {
+    "name": "小礼堂",
+    "position": [
+      139.75,
+      46.15,
+      10
+    ],
+    "category": "历史建筑",
+    "description": "独立小体量，增加石砌拱门、圆窗和入口台阶。",
+    "source": "https://dawww.nju.edu.cn/info/1201/10681.htm",
+    "priority": 2
+  },
+  {
+    "name": "东北楼",
+    "position": [
+      215.8,
+      256.1,
+      18
+    ],
+    "category": "历史建筑",
+    "description": "三层楼体和坡屋顶，参考档案照片。",
+    "source": "https://dawww.nju.edu.cn/info/1201/10621.htm",
+    "priority": 2
+  },
+  {
+    "name": "体育馆",
+    "position": [
+      44.85,
+      328.25,
+      14
+    ],
+    "category": "体育",
+    "description": "位置依据2024年校园地图，外观为简化体量。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 2
+  },
+  {
+    "name": "吕志和游泳馆",
+    "position": [
+      86.45,
+      295.1,
+      14
+    ],
+    "category": "体育",
+    "description": "位置依据2024年校园地图，外观为简化体量。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 2
+  },
+  {
+    "name": "中大路",
+    "position": [
+      110.5,
+      3.9000000000000004,
+      1
+    ],
+    "category": "道路",
+    "description": "北园南部的校园轴线。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 2
+  },
+  {
+    "name": "金大路",
+    "position": [
+      180.05,
+      119.60000000000001,
+      1
+    ],
+    "category": "道路",
+    "description": "历史建筑区南北向道路。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 2
+  },
+  {
+    "name": "平仓巷",
+    "position": [
+      -163.8,
+      226.85,
+      1
+    ],
+    "category": "道路",
+    "description": "西侧建筑片区的南北通道。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 2
+  },
+  {
+    "name": "南园篮球场",
+    "position": [
+      219.05,
+      -400.40000000000003,
+      2
+    ],
+    "category": "体育",
+    "description": "南园南部篮球场。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 2
+  },
+  {
+    "name": "图书馆",
+    "position": [
+      202.15,
+      -49.4,
+      20
+    ],
+    "category": "建筑",
+    "description": "依据2024年地图标注，位于校史博物馆南侧。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 2
+  },
+  {
+    "name": "咖啡厅",
+    "position": [
+      175.4645372127871,
+      -157.95058170705946,
+      11.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "声学西楼",
+    "position": [
+      -30.50618211916395,
+      -25.9692302437717,
+      19.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "小红楼",
+    "position": [
+      5.712963819483867,
+      -62.459016418151215,
+      11.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "微波实验楼",
+    "position": [
+      3.5385784388172112,
+      -46.98453479655881,
+      19.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南园14舍",
+    "position": [
+      66.66620775673532,
+      -163.92695298212743,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南园13舍",
+    "position": [
+      72.3553957755444,
+      -199.1205062333882,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南园20舍",
+    "position": [
+      80.86244643064259,
+      -120.44813593708459,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南园2舍",
+    "position": [
+      221.67120734870744,
+      -179.21628404395014,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南园1舍",
+    "position": [
+      216.66435552914007,
+      -143.77594293732116,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "陶园02幢",
+    "position": [
+      234.98235713175288,
+      -277.14398438096606,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "陶园03幢",
+    "position": [
+      241.01063977871897,
+      -324.4081846316396,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "校医院",
+    "position": [
+      272.6751147645655,
+      -114.0061136892667,
+      11.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "声学楼",
+    "position": [
+      -11.389744832400641,
+      -28.11874888393437,
+      19.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "新教学楼",
+    "position": [
+      239.27354803804985,
+      169.19446631677948,
+      18.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "逸夫馆Ⅰ",
+    "position": [
+      -125.84307240370113,
+      131.5826784904792,
+      24.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "逸夫馆Ⅱ",
+    "position": [
+      -101.83437615912932,
+      154.32980906144115,
+      24.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "逸夫馆Ⅲ",
+    "position": [
+      -118.4305014231811,
+      189.85719121836482,
+      24.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "安中大楼",
+    "position": [
+      -224.03196301837482,
+      330.1460030620392,
+      25.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "东南楼",
+    "position": [
+      240.8624238617135,
+      90.92402130910271,
+      13.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "丙丁楼",
+    "position": [
+      81.82561121820393,
+      245.7291919533891,
+      13.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "甲乙楼",
+    "position": [
+      106.78236126765535,
+      223.85846854385085,
+      13.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南园12舍",
+    "position": [
+      310.86201495642825,
+      -388.6232080202129,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "专家楼",
+    "position": [
+      352.6923774366118,
+      -358.7372942043105,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南园综合楼",
+    "position": [
+      165.32976670746703,
+      -298.1550226543386,
+      11.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南苑宾馆一号楼",
+    "position": [
+      128.72362745814357,
+      -369.3243798299446,
+      13.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南苑宾馆二号楼",
+    "position": [
+      133.03063044898425,
+      -404.99566687327626,
+      13.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "外教公寓",
+    "position": [
+      126.83229330786929,
+      -341.749566257768,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "教工餐厅",
+    "position": [
+      115.82180182592649,
+      -315.9430807517646,
+      11.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南园17舍",
+    "position": [
+      284.9513486971674,
+      -224.87233562828973,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南园3舍",
+    "position": [
+      226.45063365794218,
+      -212.8916385060453,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南园4舍",
+    "position": [
+      231.03172272558012,
+      -247.29330466288647,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "陶园南楼",
+    "position": [
+      331.3583847949654,
+      -304.17844233945453,
+      13.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南园15舍",
+    "position": [
+      299.76557136963584,
+      -323.5970843627933,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南园16舍",
+    "position": [
+      296.52827081523475,
+      -293.2940596902777,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "有园宾馆",
+    "position": [
+      91.72205184168054,
+      -228.14498961700073,
+      11.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "陶园01幢",
+    "position": [
+      294.3732030284209,
+      -262.72279642883393,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南园7舍",
+    "position": [
+      284.7792953168593,
+      -197.7511200436637,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南园6舍",
+    "position": [
+      280.9019633479013,
+      -166.384717768526,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南园5舍",
+    "position": [
+      275.96844379967024,
+      -133.24831671639566,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "售电处",
+    "position": [
+      231.7782022866499,
+      -159.98747653750073,
+      11.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "松林楼",
+    "position": [
+      172.1243387723651,
+      -127.46246614301764,
+      16.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "中山楼",
+    "position": [
+      164.34703073601767,
+      -109.02348717658502,
+      16.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南教学楼",
+    "position": [
+      205.64813589581536,
+      -71.27980269789313,
+      18.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "荟萃楼",
+    "position": [
+      107.72822226458408,
+      -135.51684366834067,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南园21舍",
+    "position": [
+      50.552753831909165,
+      -128.2819796342061,
+      20.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "物理楼",
+    "position": [
+      66.489425668125,
+      -25.82745849707077,
+      19.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "水电管理中心",
+    "position": [
+      -54.550037876254144,
+      27.79806270200429,
+      11.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "华龙楼2号",
+    "position": [
+      -97.25430145163182,
+      0.7366346974263308,
+      19.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "华龙楼1号",
+    "position": [
+      -93.33493320508511,
+      -28.47628099935174,
+      19.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "费彝民楼",
+    "position": [
+      -33.38510028567696,
+      343.6459133335898,
+      33.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "实验楼",
+    "position": [
+      -113.7947711615021,
+      365.15981318810293,
+      25.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "曾宪梓楼",
+    "position": [
+      -282.9543311592542,
+      320.6335723370602,
+      25.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "国际学术大厦",
+    "position": [
+      -307.993177253315,
+      374.14138300865034,
+      25.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "唐仲英楼",
+    "position": [
+      -204.0491353765756,
+      229.46071993179157,
+      25.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南大出版社",
+    "position": [
+      -151.97291503862232,
+      280.58021965248804,
+      25.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "田家炳艺术书院",
+    "position": [
+      -110.8465781642148,
+      250.90814190444732,
+      25.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "建良楼",
+    "position": [
+      -113.802259526069,
+      218.97744213289263,
+      25.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "运输中心",
+    "position": [
+      -153.03074349459322,
+      316.6214796400197,
+      17.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "逸夫管理科学楼",
+    "position": [
+      -111.10656761847089,
+      306.21732193208265,
+      25.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "低温实验楼",
+    "position": [
+      -178.4609237640488,
+      156.41166391340568,
+      25.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "天文楼",
+    "position": [
+      -154.7425209829316,
+      93.29807154978532,
+      13.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "健忠楼",
+    "position": [
+      -55.5867288569435,
+      104.39836373828744,
+      13.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "平仓巷北楼",
+    "position": [
+      -106.58950257617384,
+      100.5400957731471,
+      19.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "平仓巷西楼",
+    "position": [
+      -122.06971234914813,
+      75.90313767506082,
+      19.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "工程管理学院",
+    "position": [
+      -100.34617557941391,
+      79.9585495169266,
+      13.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "协鑫楼",
+    "position": [
+      -101.31815634996146,
+      58.13748500309193,
+      19.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "幼儿园",
+    "position": [
+      -141.82376448660406,
+      51.96781845300811,
+      11.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "蒙民伟楼",
+    "position": [
+      265.46035892851097,
+      -33.53241878810052,
+      19.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "科技馆",
+    "position": [
+      260.8078768074522,
+      23.552756675005693,
+      19.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "科技馆报告厅",
+    "position": [
+      264.3097761879245,
+      -7.713671458045371,
+      19.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "设备处仓库",
+    "position": [
+      -273.2722859934226,
+      219.92576444486826,
+      17.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "快递点",
+    "position": [
+      132.9101005969911,
+      -206.79772079116194,
+      11.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "校园110",
+    "position": [
+      123.05066920158309,
+      -190.2604284152615,
+      11.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "西苑宾馆",
+    "position": [
+      -343.25889178663243,
+      316.2172422069549,
+      17.0
+    ],
+    "category": "生活",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "中国思想家研究中心",
+    "position": [
+      -147.13325363751278,
+      211.79258008686224,
+      19.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "金银街4号",
+    "position": [
+      -151.04766941984394,
+      240.42089616735157,
+      19.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "榴园",
+    "position": [
+      40.1438077474264,
+      122.0646240335446,
+      19.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "斗鸡闸",
+    "position": [
+      87.48114634764461,
+      23.34564820160548,
+      13.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "南楼",
+    "position": [
+      135.9890117988596,
+      75.02261340483145,
+      19.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "树华楼",
+    "position": [
+      75.1531054625708,
+      29.838686797668114,
+      13.0
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  },
+  {
+    "name": "知行楼",
+    "position": [
+      43.05360422998214,
+      18.627590680873233,
+      19.5
+    ],
+    "category": "建筑",
+    "description": "名称与位置依据2024年官方地图；普通建筑外观为简化重建。",
+    "source": "https://zcc.nju.edu.cn/dzdt/glxqdt/index.html",
+    "priority": 3
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "landmarks": {
+    "北大楼 / detailed assembly": true,
+    "东大楼": true,
+    "西大楼": true,
+    "大礼堂": true,
+    "校史博物馆 · 原金陵大学图书馆": true,
+    "小礼堂": true,
+    "西南楼": true,
+    "东北楼": true
+  },
+  "annotations": 101,
+  "packed_fonts": 3,
+  "static_cameras": 6,
+  "video_created": false,
+  "glb": {
+    "version": 2,
+    "valid_size": true,
+    "meshes": 204,
+    "animations": 0
+  }
+}
