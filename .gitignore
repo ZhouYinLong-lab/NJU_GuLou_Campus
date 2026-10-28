@@ -9,6 +9,7 @@ __pycache__/
 /outputs/
 *.zip
 *.7z
+*.7z.*
 *.mp4
 *.glb
 *.blend
